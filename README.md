@@ -1,1 +1,1 @@
-# display-letters-on-screen-
+Simple java program to display words on screen
